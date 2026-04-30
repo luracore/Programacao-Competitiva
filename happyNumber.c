@@ -1,7 +1,7 @@
+// Questão: https://atcoder.jp/contests/abc439/tasks/abc439_b
+
 #include <stdio.h>
 #include <math.h>
-
-// Questão: https://atcoder.jp/contests/abc439/tasks/abc439_b
 
 int rec(int n){
   if(n == 0) return 0;
